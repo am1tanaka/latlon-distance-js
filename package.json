@@ -1,0 +1,22 @@
+{
+  "name": "latlon-distance-js",
+  "version": "0.0.1",
+  "description": "calculate lat-lon distance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/am1tanaka/latlon-distance-js.git"
+  },
+  "author": "YuTanaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/am1tanaka/latlon-distance-js/issues"
+  },
+  "homepage": "https://github.com/am1tanaka/latlon-distance-js",
+  "devDependencies": {
+    "gulp-nodeunit": "0.0.5"
+  }
+}
